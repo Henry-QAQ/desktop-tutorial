@@ -8,7 +8,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 
 * add a newline for test
 
-## 测试冲突
+## 合并冲突相关测试
 
-本地新增提交，本地库落后远程，远程有新提交
-
+* 克隆一个新的仓库
+* 并提交
