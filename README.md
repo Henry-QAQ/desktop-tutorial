@@ -8,3 +8,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 
 * add a newline for test
 
+## 合并冲突相关测试
+
+* 克隆一个新的仓库
+* 并提交
