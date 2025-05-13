@@ -8,3 +8,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 
 * add a newline for test
 
+## 测试冲突
+
+本地新增提交，本地库落后远程，远程有新提交
+
